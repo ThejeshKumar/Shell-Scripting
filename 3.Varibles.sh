@@ -9,3 +9,7 @@ echo Fruit Name = $fruit
 Date=2022-04-29
 
 echo Today Date = $Date
+
+Date=2022-04-29
+
+echo Current Date = ${Date + %F}
