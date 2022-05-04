@@ -1,2 +1,3 @@
-Hello Prudhvi
-How is your DevOps Practising?
+#!/usr/bin/env bash
+
+
