@@ -13,3 +13,7 @@ echo Today Date = $Date
 Date=$(date +%F)
 
 echo Current Date is $Date
+
+SUM=$(100+200)
+
+echo Total is $SUM
