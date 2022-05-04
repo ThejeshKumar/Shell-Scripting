@@ -10,6 +10,6 @@ Date=2022-04-29
 
 echo Today Date = $Date
 
-Date=2022-04-29
+Date=$(date +%F)
 
-echo Current Date = ${Date + %F}
+echo Current Date is $Date
