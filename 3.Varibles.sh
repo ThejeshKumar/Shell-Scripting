@@ -1,3 +1,3 @@
-laptop = MacbookM1
+laptop=MacbookM1
 
 echo laptop name = $laptop
